@@ -1,0 +1,20 @@
+# This file is empty, feel free to
+# add here your custom APT repositories
+
+# The default Parrot repositories are NOT here. Take a look at
+#    /etc/apt/sources.list.d/parrot.list
+
+
+#############
+#  WARNING  #
+#############
+
+# ADDING EXTERNAL REPOSITORIES MAY HARM YOUR SYSTEM,
+# MAY INTRODUCE MALWARE, CAUSE INSTABILITY OR
+# CAUSE PERMANENT DATA LOSS
+#    DO IT WISELY
+
+# if the default servers are unavailable or too slow
+# open /etc/apt/sources.list.d/parrot.list
+# and follow the instructions to choose a faster server
+# or read https://www.parrotsec.org/docs/mirrors/mirrors-list/ for more info
